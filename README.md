@@ -1,1 +1,2 @@
 # My-portfolio
+I have created this portfolio to demonstrate my abilities as a UX designer.  I will use this portfolio to showcase projects that I have created int the past and any projects that I may develop in the future.
