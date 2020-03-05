@@ -3,17 +3,14 @@ body {
 
 }
 .container-fluid{
-    background-color: ;
+    
     margin: auto;
 }
 .navbar {
-    background-color: #f4511e;
     border: none;
-    color: white;
+    color: #f4511e;
     padding: 10px 32px;
     text-align: center;
     font-size: 16px;
     margin: auto;
-    opacity: 0.6;
-    transition: 0.3s;
 }
