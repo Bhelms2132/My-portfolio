@@ -1,16 +1,36 @@
 body {
-    margin: auto;
+    
 
 }
-.container-fluid{
-    
-    margin: auto;
+
+.fa-github{
+  color: #f4511e;
 }
-.navbar {
-    border: none;
-    color: #f4511e;
-    padding: 10px 32px;
+
+.fa-linkedin{
+  color: #f4511e;
+}
+
+.fa-file-pdf {
+  color: #f4511e;
+}
+
+.icon-bar {
+    width: 70px;
+    background-color: #555;
+  }
+  
+  .icon-bar a {
+    display: block;
     text-align: center;
-    font-size: 16px;
-    margin: auto;
-}
+    padding: 16px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+  
+  
