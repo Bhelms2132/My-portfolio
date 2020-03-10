@@ -15,8 +15,11 @@ body {
   color: #f4511e;
 }
 
+span {
+  font-size: medium;
+}
 .icon-bar {
-    width: 70px;
+    width: 90px;
     background-color: #555;
   }
   
