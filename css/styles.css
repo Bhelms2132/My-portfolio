@@ -1,8 +1,15 @@
 body {
-    
-
+    background-color:;
 }
 
+header {
+  text-align: left;
+  margin-top: 15px;
+}
+
+main {
+  text-align: ;
+}
 .fa-github{
   color: #f4511e;
 }
@@ -20,7 +27,7 @@ span {
 }
 .icon-bar {
     width: 90px;
-    background-color: #555;
+    background-color: white;
   }
   
   .icon-bar a {
